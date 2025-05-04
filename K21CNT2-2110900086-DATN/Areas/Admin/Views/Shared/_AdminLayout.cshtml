@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+
+<!-- Mirrored from www.themenate.net/enlink-bs/dist/index-e-commerce.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 18 Feb 2025 02:36:51 GMT -->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>@ViewData["Title"]</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="~/AdminAssets/images/logo/favicon.png">
+
+    <!-- page css -->
+    <link href="~/AdminAssets/vendors/bootstrap-datepicker/bootstrap-datepicker.min.css" rel="stylesheet">
+
+    <!-- Core css -->
+    <link href="~/AdminAssets/css/app.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+    <div class="app">
+        <div class="layout">
+            <!-- Header START -->
+            <div class="header">
+                <div class="logo logo-dark">
+                    <a href="/">
+                        <img src="~/AdminAssets/images/logo/logo.png" alt="Logo">
+                        <img class="logo-fold" src="~/AdminAssets/images/logo/logo-fold.png" alt="Logo">
+                    </a>
+                </div>
+                <div class="logo logo-white">
+                    <a href="/">
+                        <img src="~/AdminAssets/images/logo/logo-white.png" alt="Logo">
+                        <img class="logo-fold" src="~/AdminAssets/images/logo/logo-fold-white.png" alt="Logo">
+                    </a>
+                </div>
+                <div class="nav-wrap">
+                    <ul class="nav-left">
+                        <li class="desktop-toggle">
+                            <a href="javascript:void(0);">
+                                <i class="anticon"></i>
+                            </a>
+                        </li>
+                        <li class="mobile-toggle">
+                            <a href="javascript:void(0);">
+                                <i class="anticon"></i>
+                            </a>
+                        </li>
+                        <li>
+
+                        </li>
+                    </ul>
+                    <ul class="nav-right">
+                        <li class="dropdown dropdown-animated scale-left">
+                            <div class="pointer" data-toggle="dropdown">
+                                <div class="avatar avatar-image  m-h-10 m-r-15">
+                                    <img src="~/AdminAssets/images/avatars/thumb-3.jpg" alt="">
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!-- Header END -->
+            <!-- Side Nav START -->
+            @await Html.PartialAsync("_SideNavPartialView.cshtml")
+            <!-- Side Nav END -->
+            <!-- Page Container START -->
+            <div class="page-container">
+
+                <!-- Content Wrapper START -->
+                @RenderBody();
+                <!-- Content Wrapper END -->
+                <!-- Footer START -->
+                <footer class="footer">
+                    <div class="footer-content">
+                        <p class="m-b-0">Copyright © 2019 Theme_Nate. All rights reserved.</p>
+                        <span>
+                            <a href="#" class="text-gray m-r-15">Term &amp; Conditions</a>
+                            <a href="#" class="text-gray">Privacy &amp; Policy</a>
+                        </span>
+                    </div>
+                </footer>
+                <!-- Footer END -->
+
+            </div>
+            <!-- Page Container END -->
+
+        </div>
+    </div>
+
+
+    <!-- Core Vendors JS -->
+    <script src="~/AdminAssets/js/vendors.min.js"></script>
+
+    <!-- page js -->
+    <script src="~/AdminAssets/vendors/chartjs/Chart.min.js"></script>
+    <script src="~/AdminAssets/js/pages/dashboard-e-commerce.js"></script>
+
+    <!-- Core JS -->
+    <script src="~/AdminAssets/js/app.min.js"></script>
+    @await Component.InvokeAsync("Notyf");
+    @await RenderSectionAsync("Scripts", required: false);
+
+</body>
+
+
+<!-- Mirrored from www.themenate.net/enlink-bs/dist/index-e-commerce.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 18 Feb 2025 02:36:52 GMT -->
+</html>
+

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K21CNT2-2110900086-DATN", "K21CNT2-2110900086-DATN\K21CNT2-2110900086-DATN.csproj", "{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFD5966B-5696-47AA-9EDA-70DEC297924D}
+	EndGlobalSection
+EndGlobal

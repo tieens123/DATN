@@ -1,0 +1,46 @@
+﻿@model K21CNT2_2110900086_DATN.Models.Role
+
+@{
+    ViewData["Title"] = "Chi tiết quyền truy cập";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<style>
+    /* Điều chỉnh để tạo khoảng cách với menu ,bị menu che mất*/
+    .card {
+        margin-top: 10px;
+    }
+
+    .page-header {
+        margin-top: 80px;
+    }
+</style>
+<div class="page-header">
+    <div class="header-sub-title">
+        <nav class="breadcrumb breadcrumb-dash">
+            <a asp-area="Admin" asp-controller="Home" asp-action="Index" class="breadcrumb-item"><i class="anticon anticon-home m-r-5"></i>Home</a>
+            <a class="breadcrumb-item" asp-area="Admin" asp-controller="AdminRoles" asp-action="Index">Quyền truy cập</a>
+            <span class="breadcrumb-item active">Chi tiết quyền truy cập</span>
+        </nav>
+    </div>
+</div>
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Chi tiết quyền truy cập</h4>
+        <div class="table-responsive">
+            <table class="product-info-table m-t-20">
+                <tbody>
+                    <tr>
+                        <td>Mã ID</td>
+                        <td class="text-dark font-weight-semibold">@Model.RoleId</td>
+                    </tr>
+                    <tr>
+                        <td>Vai trò truy cập</td>
+                        <td>@Model.RoleName</td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

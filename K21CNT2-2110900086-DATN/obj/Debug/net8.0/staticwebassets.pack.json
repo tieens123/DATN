@@ -1,0 +1,1517 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\K21CNT2-2110900086-DATN.bundle.scp.css",
+      "PackagePath": "staticwebassets\\K21CNT2-2110900086-DATN.t1y8s6k7mt.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\css\\app.min.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\anticon.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\anticon.eot"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\anticon.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\anticon.svg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\anticon.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\anticon.ttf"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\anticon.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\anticon.woff"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\anticond41d.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\anticond41d.eot"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\AdminAssets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\avatars\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-1.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\avatars\\thumb-10.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-10.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\avatars\\thumb-11.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-11.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\avatars\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-2.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\avatars\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-3.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\avatars\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-4.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\avatars\\thumb-5.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-5.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\avatars\\thumb-6.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-6.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\avatars\\thumb-7.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-7.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\avatars\\thumb-8.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-8.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\avatars\\thumb-9.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\avatars\\thumb-9.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\logo\\favicon.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\logo\\favicon.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\logo\\logo-fold-white.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\logo\\logo-fold-white.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\logo\\logo-fold.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\logo\\logo-fold.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\logo\\logo-white.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\logo\\logo-white.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\adobe-thumb.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\adobe-thumb.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\amazon-thumb.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\amazon-thumb.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\cambridge-thumb.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\cambridge-thumb.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\coffee-app-thumb.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\coffee-app-thumb.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\error-1.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\error-1.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\error-2.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\error-2.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\file-manager.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\file-manager.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\img-1.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-1.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\img-11.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-11.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\img-12.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-12.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\img-13.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-13.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\img-14.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-14.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\img-2.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-2.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\img-3.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-3.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\img-4.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-4.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\img-5.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-5.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\img-6.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-6.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\img-7.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-7.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\img-8.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\img-8.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\login-1.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\login-1.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\login-2.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\login-2.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\login-3.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\login-3.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\music-app-thumb.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\music-app-thumb.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\nvidia-thumb.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\nvidia-thumb.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\phillips-academy-thumb.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\phillips-academy-thumb.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\product-1.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\product-1.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\product-2.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\product-2.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\product-3.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\product-3.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\sign-up-1.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\sign-up-1.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\sign-up-2.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\sign-up-2.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-1.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\thumb-10.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-10.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\thumb-11.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-11.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\thumb-12.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-12.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\thumb-13.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-13.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\thumb-14.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-14.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\thumb-15.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-15.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\thumb-16.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-16.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-2.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-3.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-4.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\thumb-5.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-5.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\thumb-6.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-6.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\thumb-7.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-7.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\thumb-8.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-8.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\thumb-9.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\thumb-9.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\others\\weather-app-thumb.jpg",
+      "PackagePath": "staticwebassets\\AdminAssets\\images\\others\\weather-app-thumb.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\app.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\chartist.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\chartist.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\chartjs.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\chartjs.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\chat.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\chat.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\dashboard-crm.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\dashboard-crm.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\dashboard-default.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\dashboard-default.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\dashboard-e-commerce.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\dashboard-e-commerce.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\dashboard-project.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\dashboard-project.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\datatables.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\datatables.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\e-commerce-order-list.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\e-commerce-order-list.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\e-commerce-product-edit.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\e-commerce-product-edit.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\file-manager.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\file-manager.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\form-elements.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\form-elements.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\form-validation.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\form-validation.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\icon.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\icon.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\mail.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\mail.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\pricing.html",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\pricing.html"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\profile.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\profile.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\project-list.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\project-list.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\pages\\slider.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\pages\\slider.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\js\\vendors.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\js\\vendors.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\vendors\\bootstrap-datepicker\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\bootstrap-datepicker\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\vendors\\bootstrap-datepicker\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\bootstrap-datepicker\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\vendors\\chartist\\chartist.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\chartist\\chartist.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\vendors\\chartjs\\Chart.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\chartjs\\Chart.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\vendors\\datatables\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\datatables\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\vendors\\datatables\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\datatables\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\vendors\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\vendors\\jquery-validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\jquery-validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\vendors\\nouislider\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\nouislider\\nouislider.min.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\vendors\\nouislider\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\nouislider\\nouislider.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\vendors\\quill\\quill.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\quill\\quill.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\vendors\\select2\\select2-spinner.gif",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\select2\\select2-spinner.gif"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\vendors\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\select2\\select2.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\vendors\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\select2\\select2.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\vendors\\select2\\select2.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\select2\\select2.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\vendors\\select2\\select2x2.png",
+      "PackagePath": "staticwebassets\\AdminAssets\\vendors\\select2\\select2x2.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\css\\plugins\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\animate.min.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\css\\plugins\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\jquery-ui.min.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\css\\plugins\\magnific-popup.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\magnific-popup.min.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\css\\plugins\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\nice-select.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\css\\plugins\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\css\\vendor\\Pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\Pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\css\\vendor\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\font-awesome.min.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\fonts\\Pe-icon-7-strokebb1d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-strokebb1d.eot"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\fonts\\Pe-icon-7-strokebb1d.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-strokebb1d.svg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\fonts\\Pe-icon-7-strokebb1d.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-strokebb1d.ttf"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\fonts\\Pe-icon-7-strokebb1d.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-strokebb1d.woff"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\fonts\\Pe-icon-7-stroked41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroked41d.eot"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\about\\banner\\1-1-1920x598.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\banner\\1-1-1920x598.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\about\\banner\\2-1-1920x500.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\banner\\2-1-1920x500.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\about\\intro\\icon\\1-1-170x165.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\intro\\icon\\1-1-170x165.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\about\\team\\1-1-370x350.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\team\\1-1-370x350.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\about\\team\\1-2-370x350.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\team\\1-2-370x350.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\about\\team\\1-3-370x350.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\team\\1-3-370x350.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\avatar\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\1.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\avatar\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar\\2.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\banner\\1-1-370x250.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\1-1-370x250.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\banner\\1-2-370x250.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\1-2-370x250.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\banner\\1-3-370x250.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\1-3-370x250.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\banner\\2-1-1920x523.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\2-1-1920x523.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\banner\\3-1-1920x582.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\3-1-1920x582.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\banner\\category-icon\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\category-icon\\1.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\banner\\category-icon\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\category-icon\\2.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\banner\\category-icon\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\category-icon\\3.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\banner\\category-icon\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\category-icon\\4.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\banner\\category-icon\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\category-icon\\5.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\banner\\inner-img\\2-1-503x430.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\inner-img\\2-1-503x430.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\blog\\banner\\1-1-370x400.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\banner\\1-1-370x400.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\blog\\blockquote\\quotation.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blockquote\\quotation.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\blog\\large-size\\1-1-1170x672.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\large-size\\1-1-1170x672.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\blog\\large-size\\1-1-870x500.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\large-size\\1-1-870x500.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\blog\\medium-size\\1-1-370x315.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\medium-size\\1-1-370x315.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\blog\\medium-size\\1-2-370x315.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\medium-size\\1-2-370x315.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\blog\\medium-size\\1-3-370x315.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\medium-size\\1-3-370x315.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\blog\\medium-size\\2-1-570x485.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\medium-size\\2-1-570x485.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\blog\\medium-size\\2-2-570x485.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\medium-size\\2-2-570x485.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\blog\\medium-size\\2-3-570x485.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\medium-size\\2-3-570x485.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\blog\\medium-size\\2-4-570x485.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\medium-size\\2-4-570x485.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\blog\\small-size\\1-1-86x86.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\small-size\\1-1-86x86.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\blog\\small-size\\1-2-86x86.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\small-size\\1-2-86x86.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\blog\\small-size\\1-3-86x86.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\small-size\\1-3-86x86.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\brand\\1-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\1-1.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\brand\\1-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\1-2.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\brand\\1-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\1-3.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\brand\\1-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\1-4.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\brand\\1-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\1-5.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\breadcrumb\\bg\\1-1-1920x373.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\breadcrumb\\bg\\1-1-1920x373.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\logo\\adidas.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\adidas.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\megamenu\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\megamenu\\slider\\1.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\megamenu\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\megamenu\\slider\\2.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\payment\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\payment\\1.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\icon\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\icon\\1.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\icon\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\icon\\2.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\icon\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\icon\\3.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\icon\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\icon\\4.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\icon\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\icon\\5.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\large-size\\2-1-555x645.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\2-1-555x645.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\large-size\\2-2-555x645.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\2-2-555x645.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\large-size\\2-3-555x645.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\2-3-555x645.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\large-size\\2-4-555x645.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\2-4-555x645.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\medium-size\\1-1-270x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-1-270x300.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\medium-size\\1-10-270x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-10-270x300.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\medium-size\\1-11-270x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-11-270x300.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\medium-size\\1-12-270x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-12-270x300.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\medium-size\\1-2-270x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-2-270x300.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\medium-size\\1-3-270x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-3-270x300.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\medium-size\\1-4-270x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-4-270x300.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\medium-size\\1-5-270x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-5-270x300.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\medium-size\\1-6-270x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-6-270x300.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\medium-size\\1-7-270x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-7-270x300.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\medium-size\\1-8-270x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-8-270x300.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\medium-size\\1-9-270x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-9-270x300.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\small-size\\1-1-112x124.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\1-1-112x124.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\small-size\\1-2-112x124.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\1-2-112x124.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\small-size\\1-3-112x124.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\1-3-112x124.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\small-size\\1-4-112x124.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\1-4-112x124.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\small-size\\1-5-112x124.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\1-5-112x124.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\product\\small-size\\1-6-112x124.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\1-6-112x124.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\shape\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\1.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\shape\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\2.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\shipping\\icon\\earphones.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shipping\\icon\\earphones.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\shipping\\icon\\plane.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shipping\\icon\\plane.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\shipping\\icon\\shield.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shipping\\icon\\shield.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\slider\\bg\\1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\bg\\1-1.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\slider\\bg\\2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\bg\\2-1.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\slider\\bg\\2-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\bg\\2-2.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\slider\\inner-img\\1-1-231x210.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\inner-img\\1-1-231x210.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\slider\\inner-img\\1-2-224x204.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\inner-img\\1-2-224x204.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\slider\\inner-img\\1-3-601x534.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\inner-img\\1-3-601x534.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\slider\\inner-img\\2-1-601x426.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\inner-img\\2-1-601x426.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\testimonial\\user\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\user\\1.png"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\js\\plugins\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery-ui.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\js\\plugins\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\js\\plugins\\jquery.nice-select.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.nice-select.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\js\\plugins\\parallax.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\parallax.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\js\\plugins\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\js\\plugins\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\wow.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\js\\vendor\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\js\\vendor\\jquery-3.5.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-3.5.1.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\js\\vendor\\jquery-migrate-3.3.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-migrate-3.3.0.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\js\\vendor\\jquery.waypoints.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery.waypoints.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\js\\vendor\\modernizr-3.11.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.11.2.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\anh\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\anh\\about.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\anh\\about_1.jpg",
+      "PackagePath": "staticwebassets\\images\\anh\\about_1.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\anh\\about_2.jpg",
+      "PackagePath": "staticwebassets\\images\\anh\\about_2.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\anh\\about_3.jpg",
+      "PackagePath": "staticwebassets\\images\\anh\\about_3.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\anh\\about_4.jpg",
+      "PackagePath": "staticwebassets\\images\\anh\\about_4.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\anh\\about_adidas.mp4",
+      "PackagePath": "staticwebassets\\images\\anh\\about_adidas.mp4"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\anh\\dangki.jpg",
+      "PackagePath": "staticwebassets\\images\\anh\\dangki.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\anh\\sp.jpg",
+      "PackagePath": "staticwebassets\\images\\anh\\sp.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\adidas-ra-mắt-predator-25--79f2c293.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\adidas-ra-mắt-predator-25--79f2c293.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\adidas-ra-mắt-ultraboost--efcaf2c8.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\adidas-ra-mắt-ultraboost--efcaf2c8.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-1.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-10.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-2.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-3.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-4.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-5.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-6.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\blog-7.jpeg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-7.jpeg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-8.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-9.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\bộ-sưu-tập-đi-bộ-đường-dài-mới-nhất--4a8129b7.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\bộ-sưu-tập-đi-bộ-đường-dài-mới-nhất--4a8129b7.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\codechaos-25---giày-không-đinh-0f893a84.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\codechaos-25---giày-không-đinh-0f893a84.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\giày-cho-người-chơi-golf-adizero-zg-f7873bb9.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\giày-cho-người-chơi-golf-adizero-zg-f7873bb9.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\giới-thiệu-agravic-gore-tex-b29b29d9.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\giới-thiệu-agravic-gore-tex-b29b29d9.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\quả-bóng-thi-đấu-chính-thức-cho-fifa-3ad3e6fc.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\quả-bóng-thi-đấu-chính-thức-cho-fifa-3ad3e6fc.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\ra-mắt-áo-đấu-odi-team-india-42315007.jpeg",
+      "PackagePath": "staticwebassets\\images\\blogs\\ra-mắt-áo-đấu-odi-team-india-42315007.jpeg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\đôi-giày-chạy-bộ-mới--lightblaze-5caa09e8.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\đôi-giày-chạy-bộ-mới--lightblaze-5caa09e8.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\blogs\\đưa-sự-cạnh-tranh-lên-phố-94d922eb.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\đưa-sự-cạnh-tranh-lên-phố-94d922eb.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\-áo-thun-sst-9857e48f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\-áo-thun-sst-9857e48f.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\about_4-fe18f52a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\about_4-fe18f52a.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nam_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_1.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nam_10.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_10.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nam_2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_2.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nam_3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_3.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nam_4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_4.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nam_5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_5.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nam_6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_6.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nam_7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_7.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nam_8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_8.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nam_9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_9.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_1.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_10-9c2a1157.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_10-9c2a1157.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_10.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_10.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_2-a1329dd7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_2-a1329dd7.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_2.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_3-0de4bf4f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_3-0de4bf4f.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_3.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_4-6d2324e1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_4-6d2324e1.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_4.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_5-c560da3a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_5-c560da3a.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_5.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_6-d9b5ecc8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_6-d9b5ecc8.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_6.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_7-147521d8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_7-147521d8.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_7.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_8-66cb0d7b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_8-66cb0d7b.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_8.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_9-5893801b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_9-5893801b.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\nu_9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_9.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\quần-jogger-jersey-b6b6baee.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\quần-jogger-jersey-b6b6baee.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\quần-short-thể-hao--fbe3f9c2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\quần-short-thể-hao--fbe3f9c2.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\quần-short-tập-uyện-cd296b49.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\quần-short-tập-uyện-cd296b49.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\quần-track-pant-sst-38526e45.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\quần-track-pant-sst-38526e45.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\treem_1-305bf502.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\treem_1-305bf502.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\treem_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\treem_1.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\treem_2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\treem_2.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\áo-hoodie-khóa-kéo-3-sọc--ca5315a1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\áo-hoodie-khóa-kéo-3-sọc--ca5315a1.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\áo-khoác-cny---đảo-ngược-59d8987b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\áo-khoác-cny---đảo-ngược-59d8987b.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\áo-khoác-rằn-ri-q1-3675bc42.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\áo-khoác-rằn-ri-q1-3675bc42.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\áo-khoác-rằn-ri-q1-3d8b0949.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\áo-khoác-rằn-ri-q1-3d8b0949.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\áo-polo-mercedes-46921ab6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\áo-polo-mercedes-46921ab6.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\áo-thun-originals-670780bf.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\áo-thun-originals-670780bf.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\images\\products\\áo-thun-oversized-adilenium-f6502f1c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\áo-thun-oversized-adilenium-f6502f1c.jpg"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.K21CNT2-2110900086-DATN.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.K21CNT2-2110900086-DATN.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.K21CNT2-2110900086-DATN.props",
+      "PackagePath": "build\\K21CNT2-2110900086-DATN.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.K21CNT2-2110900086-DATN.props",
+      "PackagePath": "buildMultiTargeting\\K21CNT2-2110900086-DATN.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.K21CNT2-2110900086-DATN.props",
+      "PackagePath": "buildTransitive\\K21CNT2-2110900086-DATN.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\K21CNT2-2110900086-DATN.props" />
+</Project>

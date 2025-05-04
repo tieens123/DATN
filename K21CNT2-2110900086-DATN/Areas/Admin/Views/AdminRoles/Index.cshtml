@@ -1,0 +1,48 @@
+﻿@model IEnumerable<K21CNT2_2110900086_DATN.Models.Role>
+
+@{
+    ViewData["Title"] = "Quản lý quyền truy cập";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="table-responsive">
+    <style>
+        .table {
+            margin-top: 80px; /* Điều chỉnh giá trị này để tạo khoảng cách với menu */
+        }
+    </style>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Mã ID</th>
+                <th scope="col">Vai trò truy cập</th>
+                <th scope="col">#</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null)
+            {
+                foreach (var item in Model)
+                {
+                    <tr>
+                        <th scope="row">@item.RoleId</th>
+                        <td>@item.RoleName</td>
+                        <td>
+                            <a class="btn btn-primary btn-tone m-r-5" asp-area="Admin" asp-controller="AdminRoles" asp-action="Details" asp-route-id="@item.RoleId">Xem</a>
+                            <a class="btn btn-secondary btn-tone m-r-5" asp-area="Admin" asp-controller="AdminRoles" asp-action="Edit" asp-route-id="@item.RoleId">Sửa</a>
+                            <a class="btn btn-success btn-tone m-r-5" asp-area="Admin" asp-controller="AdminRoles" asp-action="Delete" asp-route-id="@item.RoleId">Xóa</a>
+                        </td>
+                    </tr>
+                }
+                <tr>
+                    <td colspan="3" class="text-center">
+                        <a class="btn btn-info btn-tone" asp-area="Admin" asp-controller="AdminRoles" asp-action="Create">Thêm mới</a>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+
+
+</div>

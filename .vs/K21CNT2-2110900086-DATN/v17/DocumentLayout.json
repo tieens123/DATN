@@ -1,0 +1,596 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\shared\\_headerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\shared\\_headerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\models\\k21cnt2nguyenviettien2110900086datncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\models\\k21cnt2nguyenviettien2110900086datncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\areas\\admin\\views\\adminroles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\areas\\admin\\views\\adminroles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\areas\\admin\\views\\adminroles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\areas\\admin\\views\\adminroles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\areas\\admin\\views\\adminroles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\areas\\admin\\views\\adminroles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\areas\\admin\\views\\adminroles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\areas\\admin\\views\\adminroles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\areas\\admin\\views\\adminroles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\areas\\admin\\views\\adminroles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\middlewares\\sessionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\middlewares\\sessionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\areas\\admin\\controllers\\adminrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\areas\\admin\\controllers\\adminrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\areas\\admin\\views\\shared\\_sidenavpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\areas\\admin\\views\\shared\\_sidenavpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\wwwroot\\adminassets\\css\\app.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\wwwroot\\adminassets\\css\\app.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\_FooterPartialView.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:K21CNT2-2110900086-DATN\\Views\\Shared\\_FooterPartialView.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 153,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Models\\Product.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\Product.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:02:12.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Product\\Details.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAmwAEBAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T15:00:03.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Product\\Index.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T14:52:25.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:49:43.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "K21cnt2NguyenVietTien2110900086DatnContext.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\K21cnt2NguyenVietTien2110900086DatnContext.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Models\\K21cnt2NguyenVietTien2110900086DatnContext.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\K21cnt2NguyenVietTien2110900086DatnContext.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Models\\K21cnt2NguyenVietTien2110900086DatnContext.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:45:30.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T14:36:27.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\BlogController.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:35:36.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Home\\About.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T14:31:45.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:28:45.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_HeaderPartialView.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\_HeaderPartialView.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Shared\\_HeaderPartialView.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\_HeaderPartialView.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Shared\\_HeaderPartialView.cshtml",
+              "ViewState": "AgIAAKkBAAAAAAAAAAAuwMEBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T01:39:42.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T14:30:54.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Details.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Details.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Details.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T13:30:01.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Index.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Index.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Index.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T13:26:22.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Account.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Models\\Account.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\Account.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:18:22.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:58:31.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Program.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Program.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Program.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:26:40.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Delete.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Delete.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T13:31:39.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_FooterPartialView.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\_FooterPartialView.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Shared\\_FooterPartialView.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\_FooterPartialView.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Shared\\_FooterPartialView.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAYwHIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T01:39:03.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SessionMiddleware.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Middlewares\\SessionMiddleware.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Middlewares\\SessionMiddleware.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Middlewares\\SessionMiddleware.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Middlewares\\SessionMiddleware.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwBEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:12:53.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T12:58:42.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\_ViewImports.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T12:58:09.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Edit.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Edit.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T13:30:20.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Create.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Create.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Create.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T13:31:45.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T15:59:13.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\ScaffoldingReadMe.txt",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-02T15:56:58.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\appsettings.json",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\appsettings.json",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\appsettings.json",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T16:19:44.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T15:57:26.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T12:58:14.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminRolesController.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminRolesController.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminRolesController.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminRolesController.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminRolesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:36:35.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_SideNavPartialView.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_SideNavPartialView.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_SideNavPartialView.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_SideNavPartialView.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_SideNavPartialView.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T16:11:10.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "app.min.css",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\css\\app.min.css",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\css\\app.min.css",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\css\\app.min.css",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\css\\app.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-02T16:04:00.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T15:58:06.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 78,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
