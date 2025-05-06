@@ -1,0 +1,112 @@
+﻿@using PagedList.Core.Mvc
+@model PagedList.Core.IPagedList<K21CNT2_2110900086_DATN.Models.Product>
+
+@{
+    int CurrentPage = ViewBag.CurrentPage;
+    ViewData["Title"] = "Danh sách sản phẩm " + CurrentPage;
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="main-content">
+    <div class="page-header">
+        <div class="header-sub-title">
+            <nav class="breadcrumb breadcrumb-dash">
+                <a asp-area="Admin" asp-controller="Home" class="breadcrumb-item"><i class="anticon anticon-home m-r-5"></i>Home</a>
+                <span class="breadcrumb-item active">Danh sách sản phẩm</span>
+            </nav>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-body">
+            <div class="row m-b-30">
+                <div class="col-lg-8">
+                    <div class="d-md-flex">
+                        <div class="m-b-10 m-r-15">
+                            <select class="custom-select" id="cat" name="cat" style="min-width: 200px;" asp-items="ViewBag.DanhMuc">
+                                <option selected>- Chọn danh mục -</option>
+                                <option value="0">All</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 text-right">
+                    <a class="btn btn-primary" asp-controller="AdminProducts" asp-action="Create">
+                        <i class="anticon anticon-plus-circle m-r-5"></i>
+                        <span>Thêm sản phẩm </span>
+                    </a>
+                </div>
+            </div>
+            <div class="table-responsive">
+                <table class="table table-hover e-commerce-table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Tên sản phẩm</th>
+                            <th>Mô tả sản phẩm </th>
+                            <th>Giá sản phẩm</th>
+                            <th>Tồn kho</th>
+                            <th>Danh mục sản phẩm </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model != null)
+                        {
+                            foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.ProductId</td>
+                                    <td>@item.ProductName</td>
+                                    <td>@item.Description</td>
+                                    <td>@item.Price.ToString("#,##0")VNĐ</td>
+                                    <td>@item.UnitsInStock</td>
+                                    <td>@item.Category.CategoryName</td>
+                                    <td>
+                                        <a class="btn btn-primary btn-tone m-r-5" asp-area="Admin" asp-controller="AdminProducts" asp-action="Details" asp-route-id="@item.ProductId">Xem</a>
+                                        <a class="btn btn-secondary btn-tone m-r-5" asp-area="Admin" asp-controller="AdminProducts" asp-action="Edit" asp-route-id="@item.ProductId">Sửa</a>
+                                        <a class="btn btn-success btn-tone m-r-5" asp-area="Admin" asp-controller="AdminProducts" asp-action="Delete" asp-route-id="@item.ProductId">Xóa</a>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+                <div aria-label="Page navigation example">
+                    <ul class="pagination">
+                        <pager class="pager-container" list="@Model" asp-area="Admin" asp-controller="AdminProducts" asp-route-CatID="@ViewBag.CurrentCatID" asp-action="Index" />
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $("#cat").change(function () {
+                var catID = $(this).val(); // Lấy giá trị danh mục đã chọn
+                catID = parseInt(catID);
+
+                console.log("Selected Category ID:", catID); // Kiểm tra giá trị
+
+                // Gửi AJAX request
+                $.ajax({
+                    url: '/Admin/AdminProducts/Filtter',
+                    datatype: "json",
+                    type: "GET",
+                    data: { CatID: catID },
+                    success: function (results) {
+                        console.log("Response from server:", results); // Debug phản hồi server
+                        if (results.status === "success") {
+                            window.location.href = results.redirectUrl;
+                        }
+                    },
+                    error: function (xhr) {
+                        console.log("AJAX Error:", xhr.responseText); // Kiểm tra lỗi
+                        alert("Lỗi xảy ra, vui lòng thử lại!");
+                    }
+                });
+            });
+        });
+    </script>
+}
+

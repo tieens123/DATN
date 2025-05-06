@@ -15,12 +15,12 @@ namespace K21CNT2_2110900086_DATN.Middlewares
         public async Task Invoke(HttpContext context)
         {
             // Kiểm tra nếu người dùng chưa đăng nhập và không phải trang đăng nhập
-            if (context.Session.GetInt32("UserId") == null &&
-                !context.Request.Path.StartsWithSegments("/Account/Login"))
-            {
-                context.Response.Redirect("/Account/Login");
-                return;
-            }
+            //if (context.Session.GetInt32("UserId") == null &&
+            //    !context.Request.Path.StartsWithSegments("/Account/Login"))
+            //{
+            //    context.Response.Redirect("/Account/Login");
+            //    return;
+            //}
 
             await _next(context);
         }

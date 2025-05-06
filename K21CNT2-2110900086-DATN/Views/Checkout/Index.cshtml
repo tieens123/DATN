@@ -1,0 +1,159 @@
+﻿@model K21CNT2_2110900086_DATN.ViewModel.CheckoutViewModel
+@{
+    ViewData["Title"] = "Checkout";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    List<K21CNT2_2110900086_DATN.ViewModel.CartItem> Carts = ViewBag.GioHang;
+}
+
+<main class="main-content">
+    <div class="checkout-area section-space-y-axis-100">
+        <div class="container">
+            <form asp-controller="Checkout" asp-action="Index" method="post">
+                <div class="row">
+                    <!-- Thông tin khách hàng -->
+                    <div class="col-lg-6 col-12">
+                        <div class="checkbox-form">
+                            <h3>Thông tin khách hàng</h3>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="checkout-form-list">
+                                        <label>Họ và tên <span class="required">*</span></label>
+                                        <input asp-for="FullName" placeholder="Nhập họ và tên..." type="text" required>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="checkout-form-list">
+                                        <label>Số điện thoại <span class="required">*</span></label>
+                                        <input asp-for="Phone" placeholder="Nhập số điện thoại..." type="text" required>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="checkout-form-list">
+                                        <label>Địa chỉ giao hàng</label>
+                                        <input asp-for="Address" placeholder="Nhập địa chỉ..." type="text">
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="checkout-form-list">
+                                        <label>Email <span class="required">*</span></label>
+                                        <input asp-for="Email" placeholder="Nhập email..." type="email" required>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="checkout-form-list">
+                                        <label>Ghi chú</label>
+                                        <input asp-for="Note" placeholder="Nhập ghi chú..." type="text">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Thông tin đơn hàng -->
+                    <div class="col-lg-6 col-12">
+                        <div class="your-order">
+                            <h3>Thông tin đơn hàng</h3>
+                            <div class="your-order-table table-responsive">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th class="cart-product-name">Sản phẩm</th>
+                                            <th class="cart-product-total">Thành tiền</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @if (Carts != null && Carts.Any())
+                                        {
+                                            foreach (var item in Carts)
+                                            {
+                                                <tr class="cart_item">
+                                                    <td class="cart-product-name">
+                                                        @item.product.ProductName
+                                                        <strong class="product-quantity">x @item.amount</strong>
+                                                    </td>
+                                                    <td class="cart-product-total">
+                                                        <span class="amount">@item.TotalMoney.ToString("#,##0") VNĐ</span>
+                                                    </td>
+                                                </tr>
+                                            }
+                                        }
+                                        else
+                                        {
+                                            <tr>
+                                                <td colspan="2" class="text-center">Giỏ hàng trống</td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                    <tfoot>
+                                        <tr class="order-total">
+                                            <th>Tổng đơn hàng</th>
+                                            <td>
+                                                <strong>
+                                                    <span class="amount">
+                                                        @(Carts != null ? Carts.Sum(x => x.TotalMoney).ToString("#,##0") : "0") VNĐ
+                                                    </span>
+                                                </strong>
+                                            </td>
+                                        </tr>
+                                    </tfoot>
+                                </table>
+                            </div>
+
+                            <!-- Phương thức thanh toán -->
+                            <div class="payment-method">
+                                <div class="payment-accordion">
+                                    <div id="accordion">
+                                        <!-- Thanh toán khi giao hàng -->
+                                        <div class="card">
+                                            <div class="card-header" id="payment-1">
+                                                <h5 class="panel-title">
+                                                    <input type="radio" name="PaymentMethod" value="cod" checked>
+                                                    <label> Thanh toán khi giao hàng</label>
+                                                </h5>
+                                            </div>
+                                        </div>
+
+                                        <!-- Chuyển khoản qua ngân hàng -->
+                                        <div class="card">
+                                            <div class="card-header" id="payment-2">
+                                                <h5 class="panel-title">
+                                                    <input type="radio" name="PaymentMethod" value="bank">
+                                                    <label> Chuyển khoản qua ngân hàng</label>
+                                                </h5>
+                                            </div>
+                                            <div id="collapseTwo" class="collapse" data-bs-parent="#accordion">
+                                                <div class="card-body">
+                                                    <p>MB: 0983207029</p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <!-- Thanh toán qua MOMO -->
+                                        <div class="card">
+                                            <div class="card-header" id="payment-3">
+                                                <h5 class="panel-title">
+                                                    <input type="radio" name="PaymentMethod" value="momo">
+                                                    <label> Thanh toán qua MOMO</label>
+                                                </h5>
+                                            </div>
+                                            <div id="collapseThree" class="collapse" data-bs-parent="#accordion">
+                                                <div class="card-body">
+                                                    <p>Momo: 0983207029</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Nút xác nhận đặt hàng -->
+                                    <div class="order-button-payment text-center">
+                                        <a asp-controller="Checkout" asp-action="Success" class="btn btn-primary">Xác nhận đặt hàng</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> <!-- End Thông tin đơn hàng -->
+                </div>
+            </form>
+        </div>
+    </div>
+</main>

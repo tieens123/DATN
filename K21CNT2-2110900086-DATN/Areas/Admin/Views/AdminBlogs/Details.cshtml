@@ -1,0 +1,63 @@
+﻿@model K21CNT2_2110900086_DATN.Models.Blog
+
+@{
+    ViewData["Title"] = "Chi tiết blog";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+<style>
+    /* Điều chỉnh để tạo khoảng cách với menu ,bị menu che mất*/
+    .card {
+        margin-top: 10px;
+    }
+
+    .page-header {
+        margin-top: 80px;
+    }
+</style>
+<div class="page-header">
+    <div class="header-sub-title">
+        <nav class="breadcrumb breadcrumb-dash">
+            <a asp-area="Admin" asp-controller="Home" asp-action="Index" class="breadcrumb-item"><i class="anticon anticon-home m-r-5"></i>Home</a>
+            <a class="breadcrumb-item" asp-area="Admin" asp-controller="AdminBlogs" asp-action="Index">Danh sách blog</a>
+            <span class="breadcrumb-item active">Chi tiết blog</span>
+        </nav>
+    </div>
+</div>
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title"> Blog:@Model.BlogName</h4>
+        <div class="table-responsive">
+            <table class="product-info-table m-t-20">
+                <tbody>
+                    <tr>
+                        <td>Mã ID</td>
+                        <td class="text-dark font-weight-semibold">@Model.BlogId</td>
+                    </tr>
+                    <tr>
+                        <td>Tên blog</td>
+                        <td>@Model.BlogName</td>
+                    </tr>
+                    <tr>
+                        <td>Tiêu đề blog</td>
+                        <td>@Model.Title</td>
+                    </tr>
+                    <tr>
+                        <td>Tác giả blog</td>
+                        <td>@Model.Author</td>
+                    </tr>
+                    <tr>
+                        <td>Ảnh sản phẩm</td>
+                        <td>
+                            <img width="200" height="200" src="~/images/blogs/@Model.Image" alt="@Model.BlogName" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Mô tả blog</td>
+                        <td>@Model.Description</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

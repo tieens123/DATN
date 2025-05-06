@@ -1,0 +1,75 @@
+﻿@model K21CNT2_2110900086_DATN.Models.Product
+
+@{
+    ViewData["Title"] = "Chỉnh sửa sản phẩm";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<h2 class="text-center mt-4">Sửa sản phẩm</h2>
+
+<div class="container">
+    <div class="card shadow-sm mt-3">
+        <div class="card-body">
+            <form asp-controller="AdminProducts" asp-action="Edit" asp-route-id="@Model.ProductId" method="post" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <!-- Nếu qtv ko chỉnh thì sẽ lấy lại giá trị cũ -->
+                <input type="hidden" asp-for="ProductId" />
+                <input type="hidden" asp-for="Image" />
+                <!-- Tên sản phẩm -->
+                <div class="form-group">
+                    <label for="ProductName" class="font-weight-bold">Tên sản phẩm</label>
+                    <input type="text" class="form-control" asp-for="ProductName">
+                    <span asp-validation-for="ProductName" class="text-danger"></span>
+                </div>
+
+                <div class="row">
+                    <!-- Giá bán -->
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="Price" class="font-weight-bold">Giá bán</label>
+                            <input type="number" class="form-control" asp-for="Price" min="0">
+                            <span asp-validation-for="Price" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <!-- Số lượng hàng tồn -->
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="UnitsInStock" class="font-weight-bold">Số lượng tồn</label>
+                            <input type="number" class="form-control" asp-for="UnitsInStock" min="0">
+                            <span asp-validation-for="UnitsInStock" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Danh mục sản phẩm -->
+                <div class="form-group">
+                    <label for="CategoryId" class="font-weight-bold">Danh mục sản phẩm</label>
+                    <select class="custom-select" asp-for="CategoryId" asp-items="ViewBag.DanhMuc">
+                        <option selected disabled value="">-- Chọn danh mục --</option>
+                    </select>
+                    <span asp-validation-for="CategoryId" class="text-danger"></span>
+                </div>
+
+                <!-- Ảnh đại diện -->
+                <div class="form-group">
+                    <label for="fImage" class="font-weight-bold">Ảnh đại diện</label>
+                    <input type="file" class="form-control-file" name="fImage" accept="image/*">
+                </div>
+
+                <!-- Mô tả sản phẩm -->
+                <div class="form-group">
+                    <label for="Description" class="font-weight-bold">Mô tả sản phẩm</label>
+                    <textarea class="form-control" asp-for="Description" rows="4"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="d-flex justify-content-between">
+                    <button type="submit" class="btn btn-primary">Lưu sản phẩm</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

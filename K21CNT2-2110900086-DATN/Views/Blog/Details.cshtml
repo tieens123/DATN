@@ -1,0 +1,125 @@
+﻿@model K21CNT2_2110900086_DATN.Models.Blog
+
+@{
+    ViewData["Title"] = Model.BlogId;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    List<Blog> Baivietlienquan = ViewBag.Baivietlienquan;
+}
+<style>
+    .custom-swiper {
+        display: flex;
+        justify-content: space-between; /* Căn đều giữa các phần tử */
+        flex-wrap: wrap;
+        gap: 20px; /* Khoảng cách giữa các blog */
+    }
+
+    .swiper-slide {
+        flex: 1 1 calc(33.333% - 20px); /* Chia 3 phần bằng nhau, trừ đi khoảng cách */
+        max-width: calc(33.333% - 20px); /* Đảm bảo không bị thu hẹp */
+    }
+</style>
+<main class="main-content">
+    <div class="breadcrumb-area breadcrumb-height" data-bg-image="images/anh/blog.jpg">
+        <div class="container h-100">
+            <div class="row h-100">
+                <div class="col-lg-12">
+                    <div class="breadcrumb-item">
+                        <h1 class="breadcrumb-heading">@Model.BlogName</h1>
+                        <ul>
+                            <li>
+                                <a href="/">Trang chủ <i class="pe-7s-angle-right"></i></a>
+                            </li>
+                            <li>@Model.BlogName</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="blog-area section-space-y-axis-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="blog-detail-item">
+                        <div class="blog-img">
+                            <img class="img-full" src="~/images/blogs/@Model.Image" alt="@Model.BlogName">
+                        </div>
+                        <h5 class="title mb-4">
+                            <a asp-route="BlogDetails" asp-route-id="@Model.BlogId">@Model.BlogName</a>
+                        </h5>
+                        <p class="short-desc mb-4 mb-7">@Model.Title</p>
+                        @Html.Raw(Model.Description)
+                        <div class="tag-wtih-social">
+                            <div class="tag">
+                                <span class="title text-primary">Tags:</span>
+                                <ul>
+                                    <li>
+                                        <a href="javascript:void(0)">Furniture,</a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:void(0)">Electronic,</a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:void(0)">Fashion</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="social-link">
+                                <ul>
+                                    <li>
+                                        <a href="javascript:void(0)">
+                                            <i class="fa fa-facebook"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:void(0)">
+                                            <i class="fa fa-pinterest-p"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="javascript:void(0)">
+                                            <i class="fa fa-dribbble"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="feedback-area section-space-top-55">
+                            <h4 class="heading mb-1">Bài viết liên quan</h4>
+                            </hr>
+                            <div class="swiper-wrapper custom-swiper" id="swiper-wrapper-1069af8d554b3c276" aria-live="polite">
+                                @if (Baivietlienquan != null && Baivietlienquan.Count() > 0)
+                                {
+                                    foreach (var item in Baivietlienquan)
+                                    {
+                                        <div class="swiper-slide" role="group" aria-label="3 / 3">
+                                            <div class="product-list-item">
+                                                <div class="product-img img-zoom-effect">
+                                                    <a asp-route="BlogDetails" asp-route-id="@item.BlogId">
+                                                        <img class="img-full" src="~/images/blogs/@item.Image" alt="@item.BlogName">
+                                                    </a>
+                                                </div>
+                                                <div class="product-content">
+                                                    <h5 class="title mb-3">
+                                                        <a asp-route="BlogDetails" asp-route-id="@item.BlogId">@item.BlogName</a>
+                                                    </h5>
+                                                    <div class="blog-meta text-manatee pb-1">
+                                                        <ul>
+                                                            <li class="date">May 21, 2025</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    }
+                                }
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+</main>

@@ -1,0 +1,43 @@
+﻿@model K21CNT2_2110900086_DATN.Models.Category
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+<style>   
+    /* Điều chỉnh để tạo khoảng cách với menu ,bị menu che mất*/
+    .form-group {
+        margin-top: 10px;
+    }
+
+    .page-header {
+        margin-top: 80px;
+    }
+</style>
+<div class="page-header">
+    <div class="header-sub-title">
+        <nav class="breadcrumb breadcrumb-dash">
+            <a asp-area="Admin" asp-controller="Home" asp-action="Index" class="breadcrumb-item"><i class="anticon anticon-home m-r-5"></i>Home</a>
+            <a class="breadcrumb-item" asp-area="Admin" asp-controller="AdminCategories" asp-action="Index">Danh mục sản phẩm</a>
+            <span class="breadcrumb-item active">Sửa danh mục sản phẩm</span>
+        </nav>
+    </div>
+</div>
+
+<form asp-action="Edit" asp-route-id="@Model.CategoryId" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input type="hidden" asp-for="CategoryId" />
+    <div class="form-group">
+        <div class="form-group col-md-12">
+            <label class="col-sm col-form-label">Tên danh mục </label>
+            <div class="col-sm-12">
+                <input type="text" class="form-control" asp-for="CategoryName" >
+            </div>
+        </div>
+        <div class="form-group col-md-6">
+            <div class="col-sm-6">
+                <button type="submit" class="btn btn-primary">Lưu thay đổi</button>
+            </div>
+        </div>
+    </div>
+</form>

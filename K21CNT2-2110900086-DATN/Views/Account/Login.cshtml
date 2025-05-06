@@ -1,0 +1,28 @@
+﻿@model K21CNT2_2110900086_DATN.ViewModel.AccountViewModel.LoginViewModel
+
+<div class="position-relative">
+    <img src="~/images/anh/dangki.jpg" class="img-fluid position-absolute top-0 start-0 w-100 h-100" alt="Background">
+    <div class="container position-relative d-flex justify-content-center align-items-center vh-100">
+        <div class="card shadow p-4" style="width: 400px; background: rgba(255, 255, 255, 0.8);">
+            <h2 class="text-center mb-4">Đăng nhập</h2>
+            <form asp-action="Login" method="post">
+                <div class="mb-3">
+                    <label asp-for="Email" class="form-label">Email</label>
+                    <input asp-for="Email" type="email" class="form-control" placeholder="Nhập email của bạn" required />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Password" class="form-label">Mật khẩu</label>
+                    <input asp-for="Password" type="password" class="form-control" placeholder="Nhập mật khẩu" required />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary w-100">Đăng nhập</button>
+                <div class="text-center mt-3">
+                    <a asp-action="Register" asp-controller="Account" class="text-decoration-none">Chưa có tài khoản? Đăng ký ngay</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

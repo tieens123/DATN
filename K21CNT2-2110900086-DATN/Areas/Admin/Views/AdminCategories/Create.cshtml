@@ -1,0 +1,42 @@
+﻿@model K21CNT2_2110900086_DATN.Models.Category
+
+@{
+    ViewData["Title"] = "Thêm danh mục";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<style>
+    /* Điều chỉnh để tạo khoảng cách với menu ,bị menu che mất*/
+    .form-group {
+        margin-top: 10px;
+    }
+
+    .page-header {
+        margin-top: 80px;
+    }
+</style>
+<div class="page-header">
+    <div class="header-sub-title">
+        <nav class="breadcrumb breadcrumb-dash">
+            <a asp-area="Admin" asp-controller="Home" asp-action="Index" class="breadcrumb-item"><i class="anticon anticon-home m-r-5"></i>Home</a>
+            <a class="breadcrumb-item" asp-area="Admin" asp-controller="AdminCategories" asp-action="Index">Danh mục sản phẩm</a>
+            <span class="breadcrumb-item active">Thêm danh mục</span>
+        </nav>
+    </div>
+</div>
+<form asp-action="Create" method="post">
+     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <div class="form-group col-md-8">
+            <h2 class="col-sm col-form-label">Tên danh mục</h2>
+            <div class="col-sm-8">
+                <input type="text" class="form-control" asp-for="CategoryName" placeholder="Thêm danh mục mới...">
+            </div>
+        </div>
+        <div class="form-group col-md-6">
+            <div class="col-sm-6">
+                <button type="submit" class="btn btn-primary">Lưu</button>
+            </div>
+        </div>
+    </div>
+</form>
