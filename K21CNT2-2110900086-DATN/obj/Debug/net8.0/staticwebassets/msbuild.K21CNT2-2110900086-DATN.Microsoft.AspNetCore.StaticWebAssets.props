@@ -660,8 +660,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>bt1pkihhrh</Fingerprint>
-      <Integrity>b0EzHqkCA2BdvSTHces6qvDIqifpmOcIt1k3rUPL38A=</Integrity>
+      <Fingerprint>nrn1r2xx0q</Fingerprint>
+      <Integrity>bT6GXspij/bzx16bJXDufUnkTDtfoGONH4tZ8kfcLa8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AdminAssets\images\logo\logo.png'))</OriginalItemSpec>
@@ -3294,23 +3294,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\logo\adidas.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\logo\logo.png'))">
       <SourceType>Package</SourceType>
       <SourceId>K21CNT2-2110900086-DATN</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/K21CNT2-2110900086-DATN</BasePath>
-      <RelativePath>assets/images/logo/adidas.png</RelativePath>
+      <RelativePath>assets/images/logo/logo.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>dum4a7ot2a</Fingerprint>
-      <Integrity>pdL+Vw3TNPA+x0tKHBS9pVS74lgRG8XpRe6oyCXYx1I=</Integrity>
+      <Fingerprint>nrn1r2xx0q</Fingerprint>
+      <Integrity>bT6GXspij/bzx16bJXDufUnkTDtfoGONH4tZ8kfcLa8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\logo\adidas.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\logo\logo.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\megamenu\slider\1.jpg'))">
       <SourceType>Package</SourceType>

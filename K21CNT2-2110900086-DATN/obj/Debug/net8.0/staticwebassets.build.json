@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ssxdEt0rvTD3rKrXCf6STC3sOd0uFwDxkL0P9MmRiGg=",
+  "Hash": "RMKQmQGuz6XE9FZyckge8Fdz+lqONxOCso5rGq9Ti68=",
   "Source": "K21CNT2-2110900086-DATN",
   "BasePath": "_content/K21CNT2-2110900086-DATN",
   "Mode": "Default",
@@ -913,8 +913,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bt1pkihhrh",
-      "Integrity": "b0EzHqkCA2BdvSTHces6qvDIqifpmOcIt1k3rUPL38A=",
+      "Fingerprint": "nrn1r2xx0q",
+      "Integrity": "bT6GXspij/bzx16bJXDufUnkTDtfoGONH4tZ8kfcLa8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\AdminAssets\\images\\logo\\logo.png"
@@ -3986,12 +3986,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\favicon.ico"
     },
     {
-      "Identity": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\logo\\adidas.png",
+      "Identity": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\logo\\logo.png",
       "SourceId": "K21CNT2-2110900086-DATN",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\",
       "BasePath": "_content/K21CNT2-2110900086-DATN",
-      "RelativePath": "assets/images/logo/adidas#[.{fingerprint}]?.png",
+      "RelativePath": "assets/images/logo/logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4000,11 +4000,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dum4a7ot2a",
-      "Integrity": "pdL+Vw3TNPA+x0tKHBS9pVS74lgRG8XpRe6oyCXYx1I=",
+      "Fingerprint": "nrn1r2xx0q",
+      "Integrity": "bT6GXspij/bzx16bJXDufUnkTDtfoGONH4tZ8kfcLa8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\logo\\adidas.png"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\logo\\logo.png"
     },
     {
       "Identity": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\megamenu\\slider\\1.jpg",
@@ -11057,7 +11057,7 @@
       ]
     },
     {
-      "Route": "AdminAssets/images/logo/logo.bt1pkihhrh.png",
+      "Route": "AdminAssets/images/logo/logo.nrn1r2xx0q.png",
       "AssetFile": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\images\\logo\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11067,7 +11067,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4639"
+          "Value": "113518"
         },
         {
           "Name": "Content-Type",
@@ -11075,11 +11075,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"b0EzHqkCA2BdvSTHces6qvDIqifpmOcIt1k3rUPL38A=\""
+          "Value": "\"bT6GXspij/bzx16bJXDufUnkTDtfoGONH4tZ8kfcLa8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 15:48:58 GMT"
+          "Value": "Wed, 07 May 2025 03:34:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11089,7 +11089,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bt1pkihhrh"
+          "Value": "nrn1r2xx0q"
         },
         {
           "Name": "label",
@@ -11097,7 +11097,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-b0EzHqkCA2BdvSTHces6qvDIqifpmOcIt1k3rUPL38A="
+          "Value": "sha256-bT6GXspij/bzx16bJXDufUnkTDtfoGONH4tZ8kfcLa8="
         }
       ]
     },
@@ -11112,7 +11112,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4639"
+          "Value": "113518"
         },
         {
           "Name": "Content-Type",
@@ -11120,11 +11120,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"b0EzHqkCA2BdvSTHces6qvDIqifpmOcIt1k3rUPL38A=\""
+          "Value": "\"bT6GXspij/bzx16bJXDufUnkTDtfoGONH4tZ8kfcLa8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 15:48:58 GMT"
+          "Value": "Wed, 07 May 2025 03:34:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11134,7 +11134,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-b0EzHqkCA2BdvSTHces6qvDIqifpmOcIt1k3rUPL38A="
+          "Value": "sha256-bT6GXspij/bzx16bJXDufUnkTDtfoGONH4tZ8kfcLa8="
         }
       ]
     },
@@ -23111,8 +23111,8 @@
       ]
     },
     {
-      "Route": "assets/images/logo/adidas.dum4a7ot2a.png",
-      "AssetFile": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\logo\\adidas.png",
+      "Route": "assets/images/logo/logo.nrn1r2xx0q.png",
+      "AssetFile": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\logo\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23121,7 +23121,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13079"
+          "Value": "113518"
         },
         {
           "Name": "Content-Type",
@@ -23129,11 +23129,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pdL+Vw3TNPA+x0tKHBS9pVS74lgRG8XpRe6oyCXYx1I=\""
+          "Value": "\"bT6GXspij/bzx16bJXDufUnkTDtfoGONH4tZ8kfcLa8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 15:48:58 GMT"
+          "Value": "Wed, 07 May 2025 03:34:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23143,21 +23143,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dum4a7ot2a"
+          "Value": "nrn1r2xx0q"
         },
         {
           "Name": "label",
-          "Value": "assets/images/logo/adidas.png"
+          "Value": "assets/images/logo/logo.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pdL+Vw3TNPA+x0tKHBS9pVS74lgRG8XpRe6oyCXYx1I="
+          "Value": "sha256-bT6GXspij/bzx16bJXDufUnkTDtfoGONH4tZ8kfcLa8="
         }
       ]
     },
     {
-      "Route": "assets/images/logo/adidas.png",
-      "AssetFile": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\logo\\adidas.png",
+      "Route": "assets/images/logo/logo.png",
+      "AssetFile": "F:\\1\\đồ án\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\assets\\images\\logo\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23166,7 +23166,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13079"
+          "Value": "113518"
         },
         {
           "Name": "Content-Type",
@@ -23174,11 +23174,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pdL+Vw3TNPA+x0tKHBS9pVS74lgRG8XpRe6oyCXYx1I=\""
+          "Value": "\"bT6GXspij/bzx16bJXDufUnkTDtfoGONH4tZ8kfcLa8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 15:48:58 GMT"
+          "Value": "Wed, 07 May 2025 03:34:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23188,7 +23188,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pdL+Vw3TNPA+x0tKHBS9pVS74lgRG8XpRe6oyCXYx1I="
+          "Value": "sha256-bT6GXspij/bzx16bJXDufUnkTDtfoGONH4tZ8kfcLa8="
         }
       ]
     },

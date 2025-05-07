@@ -181,7 +181,7 @@ wwwroot\assets\images\brand\1-4.png
 wwwroot\assets\images\brand\1-5.png
 wwwroot\assets\images\breadcrumb\bg\1-1-1920x373.jpg
 wwwroot\assets\images\favicon.ico
-wwwroot\assets\images\logo\adidas.png
+wwwroot\assets\images\logo\logo.png
 wwwroot\assets\images\megamenu\slider\1.jpg
 wwwroot\assets\images\megamenu\slider\2.jpg
 wwwroot\assets\images\payment\1.png
