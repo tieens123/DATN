@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("K21CNT2-2110900086-DATN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+315bb49a40674c747adff2772e6bf7f9edacb5df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f93efbfb41a878dbde9d9cd4c244db0c73acc4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("K21CNT2-2110900086-DATN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("K21CNT2-2110900086-DATN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

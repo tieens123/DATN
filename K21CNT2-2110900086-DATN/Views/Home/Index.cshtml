@@ -1,8 +1,302 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+<style>
+    .product-grid-view {
+        padding: 70px 20px; /* 50px trên & dưới, 10px cách lề trái & phải */
+    }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+        .product-grid-view .row {
+            row-gap: 30px; /* Tạo khoảng cách giữa các hàng sản phẩm */
+        }
+</style>
+
+<!-- Main Slider -->
+<div class="swiper-container main-slider swiper-arrow with-bg_white">
+    <div class="swiper-wrapper">
+        <!-- Banner 1 -->
+        <div class="swiper-slide animation-style-01">
+            <div class="slide-inner bg-height d-flex align-items-center" data-bg-image="assets/images/slider/bg/3-1.jpg">
+                <div class="container">
+                    <div class="parallax-with-content text-left">
+                        <!-- Căn chữ bên trái -->
+                        <div class="slide-content">
+                            <span class="sub-title mb-3"></span>
+                            <h2 class="title mb-9"></h2>
+                            <div class="button-wrap" >
+                                <a class="btn btn-custom-size lg-size btn-primary btn-white-hover rounded-0" href="shop.html" style="margin-top:73%" >Shop Now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Banner 2 -->
+        <div class="swiper-slide animation-style-01">
+            <div class="slide-inner bg-height d-flex align-items-center" data-bg-image="assets/images/slider/bg/3-4.jpg">
+                <div class="container">
+                    <div class="parallax-with-content text-left">
+                        <!-- Căn chữ bên trái -->
+                        <div class="slide-content">
+                            <span class="sub-title mb-3"> </span>
+                            <h2 class="title mb-9"></h2>
+                            <div class="button-wrap">
+                                <a class="btn btn-custom-size lg-size btn-primary btn-white-hover rounded-0" href="shop.html" style="margin-top:73%">Mua ngay</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Thêm nút điều hướng -->
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
 </div>
+<!-- Add Pagination -->
+<div class="swiper-pagination with-bg d-md-none"></div>
+
+<!-- Add Arrows -->
+<div class="swiper-button-next"></div>
+<div class="swiper-button-prev"></div>
+    </div>
+
+</div>
+<!-- Slider Area End Here -->
+<!-- Begin Shipping Area -->
+<div class="shipping-area section-space-top-100">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="shipping-item">
+                    <div class="shipping-img">
+                        <img src="assets/images/shipping/icon/plane.png" alt="Shipping Icon">
+                    </div>
+                    <div class="shipping-content">
+                        <h5 class="title">Miễn phí giao hàng</h5>
+                        <p class="short-desc mb-0">Ưu đãi giao hàng tận nhà</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 pt-6 pt-md-0">
+                <div class="shipping-item">
+                    <div class="shipping-img">
+                        <img src="assets/images/shipping/icon/earphones.png" alt="Shipping Icon">
+                    </div>
+                    <div class="shipping-content">
+                        <h5 class="title">Hỗ trợ trực tuyến</h5>
+                        <p class="short-desc mb-0">Hỗ trợ trực tuyến 24/7</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 pt-6 pt-lg-0">
+                <div class="shipping-item">
+                    <div class="shipping-img">
+                        <img src="assets/images/shipping/icon/shield.png" alt="Shipping Icon">
+                    </div>
+                    <div class="shipping-content">
+                        <h5 class="title">Thanh toán an toàn</h5>
+                        <p class="short-desc mb-0">Hệ thống thanh toán an toàn</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Shipping Area End Here -->
+<!-- Begin Product Area -->
+<div class="tab-content text-charcoal pt-8">
+    <div class="tab-pane fade show active" id="grid-view" role="tabpanel" aria-labelledby="grid-view-tab">
+        <div class="product-grid-view row">
+            <h2 class="text-center mb-4">SẢN PHẨM MỚI NHẤT</h2>
+            @if (ViewBag.Products != null && ViewBag.Products.Count > 0)
+            {
+                @foreach (var item in ViewBag.Products)
+                {
+                    <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="product-item">
+                            <div class="product-img img-zoom-effect">
+                                <a asp-route="ProductDetails" asp-route-id="@item.ProductId">
+                                    <img class="img-full" src="~/images/products/@item.Image" alt="@item.ProductName">
+                                </a>
+                                <div class="product-add-action">
+                                    <ul>
+                                        <li>
+                                            <a href="javascript:void(0);" class="quick-add-to-cart" data-product-id="@item.ProductId">
+                                                <i class="pe-7s-cart"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/">
+                                                <i class="pe-7s-shuffle"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/">
+                                                <i class="pe-7s-like"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="product-content">
+                                <a class="product-name" asp-route="ProductDetails" asp-route-id="@item.ProductId">@item.ProductName</a>
+                                <div class="price-box pb-1">
+                                    <span class="new-price">@item.Price.ToString("#,##0") VNĐ</span>
+                                </div>
+                               @*  <div class="rating-box">
+                                    <ul>
+                                        <li><i class="pe-7s-star"></i></li>
+                                        <li><i class="pe-7s-star"></i></li>
+                                        <li><i class="pe-7s-star"></i></li>
+                                        <li><i class="pe-7s-star"></i></li>
+                                        <li><i class="pe-7s-star"></i></li>
+                                    </ul>
+                                </div> *@
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>
+</br>
+<!-- Product Area End Here -->
+<!-- Begin Banner Area -->
+<div class="banner-area banner-with-parallax py-10" data-bg-image="assets/images/slider/bg/2-2.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 align-self-center">
+                <div class="banner-content text-white text-start">
+                    <div class="section-title">
+                        <span class="sub-title">Ưu đãi sản phẩm mới</span>
+                        <h2 class="title font-size-60 mb-6">Lên đến 20% </h2>
+                    </div>
+                    <div class="countdown-wrap">
+                        <div class="countdown item-4" data-countdown="2025/03/01" data-format="short">
+                            <div class="countdown__item me-3">
+                                <span class="countdown__time daysLeft"></span>
+                                <span class="countdown__text daysText"></span>
+                            </div>
+                            <div class="countdown__item me-3">
+                                <span class="countdown__time hoursLeft"></span>
+                                <span class="countdown__text hoursText"></span>
+                            </div>
+                            <div class="countdown__item me-3">
+                                <span class="countdown__time minsLeft"></span>
+                                <span class="countdown__text minsText"></span>
+                            </div>
+                            <div class="countdown__item">
+                                <span class="countdown__time secsLeft"></span>
+                                <span class="countdown__text secsText"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="button-wrap pt-10">
+                        <a class="btn btn-custom-size lg-size btn-white rounded-0" href="shop.html">Mua ngay</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Banner Area End Here -->
+<!-- Begin Blog Area -->
+
+<main class="main-content">
+    <div class="blog-area blog-column-2 section-space-y-axis-100">
+        <div class="container">
+            <h2 class="text-center mb-4">BÀI VIẾT MỚI NHẤT</h2>
+            <div class="row">
+                @if (ViewBag.Blogs != null && ViewBag.Blogs.Count > 0)
+                {
+                    foreach (var item in ViewBag.Blogs)
+                    {
+                        <div class="col-md-6">
+                            <div class="blog-item">
+                                <div class="blog-img img-zoom-effect">
+                                    <a asp-route="BlogDetails" asp-route-id="@item.BlogId">
+                                        <img class="img-full" src="~/images/blogs/@item.Image" alt="@item.Title">
+                                    </a>
+                                </div>
+                                <div class="blog-content">
+                                    <h5 class="title mb-4">
+                                        <a asp-route="BlogDetails" asp-route-id="@item.BlogId">@item.BlogName</a>
+                                    </h5>
+                                    <p class="short-desc mb-5">@item.Title</p>
+                                    <div class="button-wrap">
+                                        <a class="btn btn-custom-size lg-size btn-dark rounded-0" asp-route="BlogDetails" asp-route-id="@item.BlogId">Xem thêm</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <p class="text-center">Chưa có bài viết nào.</p>
+                }
+            </div>
+        </div>
+    </div>
+</main>
+<!-- Blog Area End Here -->
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $(".quick-add-to-cart").click(function () {
+                var productid = $(this).data("product-id"); // Lấy ID sản phẩm
+                var soLuong = 1; // Mặc định thêm 1 sản phẩm
+
+                if (!productid) {
+                    alert("Sản phẩm không hợp lệ.");
+                    return;
+                }
+
+                $.ajax({
+                    url: '/api/cart/add',
+                    type: "POST",
+                    dataType: "json",
+                    data: {
+                        productID: productid,
+                        amount: soLuong
+                    },
+                    success: function (response) {
+                        if (response.success) {
+                            updateCartUI(); // Cập nhật số lượng hiển thị ngay lập tức
+                            showToast("Sản phẩm đã được thêm vào giỏ hàng!");
+
+                            // Đợi 1 giây rồi reload trang
+                            setTimeout(function () {
+                                location.reload();
+                            }, 1000);
+                        } else {
+                            alert("Không thể thêm sản phẩm vào giỏ hàng.");
+                        }
+                    },
+                    error: function (xhr) {
+                        console.error("Lỗi khi thêm sản phẩm vào giỏ hàng:", xhr);
+                        alert("Có lỗi xảy ra: " + xhr.responseText);
+                    }
+                });
+            });
+
+            // Cập nhật số sản phẩm trong giỏ hàng mà không cần reload
+            function updateCartUI() {
+                $("#miniCart").load("/AjaxContent/HeaderCart");
+                $("#numberCart").load("/AjaxContent/NumberCart");
+            }
+
+            // Hiển thị thông báo nhỏ (toast)
+            function showToast(message) {
+                var toast = $("<div class='toast-message'>" + message + "</div>");
+                $("body").append(toast);
+                toast.fadeIn(400).delay(1000).fadeOut(400, function () {
+                    $(this).remove();
+                });
+            }
+        });
+    </script>
+}

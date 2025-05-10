@@ -3,6 +3,66 @@
   "WorkspaceRootPath": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\shared\\_headerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\shared\\_headerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\blog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\blog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\checkout\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\checkout\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\viewmodel\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\viewmodel\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\shared\\_footerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\shared\\_footerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,28 +83,12 @@
       "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\shared\\_headerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\shared\\_headerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\areas\\admin\\views\\shared\\_sidenavpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\areas\\admin\\views\\shared\\_sidenavpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\shared\\_footerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\shared\\_footerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -75,22 +119,6 @@
       "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\shared\\components\\numbercart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\blog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\blog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\models\\k21cnt2nguyenviettien2110900086datncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\models\\k21cnt2nguyenviettien2110900086datncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -101,10 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -271,16 +295,8 @@
       "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\viewmodel\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\viewmodel\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\viewmodel\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\extension\\hashmd5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\extension\\hashmd5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\areas\\admin\\controllers\\adminrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -289,14 +305,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|solutionrelative:k21cnt2-2110900086-datn\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F817B58-2B1B-4B63-9A7C-C0A6E9E3CE21}|K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN.csproj|f:\\1\\\u0111\u1ED3 \u00E1n\\k21cnt2-nguyenviettien-2110900086-datn\\k21cnt2-2110900086-datn\\k21cnt2-2110900086-datn\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -330,7 +338,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 301,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -346,800 +354,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountViewModel.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\ViewModel\\AccountViewModel.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\ViewModel\\AccountViewModel.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\ViewModel\\AccountViewModel.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\ViewModel\\AccountViewModel.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAsAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T07:18:29.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCwAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Checkout\\Success.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Checkout\\Success.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Checkout\\Success.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Checkout\\Success.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T12:58:42.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_SideNavPartialView.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_SideNavPartialView.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_SideNavPartialView.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_SideNavPartialView.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_SideNavPartialView.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T16:11:10.912Z"
+              "WhenOpened": "2025-05-08T06:50:22.248Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Account\\Login.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBsAAAAGAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T09:01:14.766Z"
+              "WhenOpened": "2025-05-08T02:54:42.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\AccountController.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T08:32:34.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T15:57:26.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "_HeaderPartialView.cshtml",
               "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\_HeaderPartialView.cshtml",
               "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Shared\\_HeaderPartialView.cshtml",
               "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\_HeaderPartialView.cshtml",
               "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Shared\\_HeaderPartialView.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAswDEAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHgAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-04T01:39:42.397Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Role.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Models\\Role.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\Role.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Models\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T04:12:19.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Account\\Register.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T09:29:27.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T09:12:16.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_FooterPartialView.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\_FooterPartialView.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Shared\\_FooterPartialView.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\_FooterPartialView.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Shared\\_FooterPartialView.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAFcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-04T01:39:03.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T15:58:06.432Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SessionMiddleware.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Middlewares\\SessionMiddleware.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Middlewares\\SessionMiddleware.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Middlewares\\SessionMiddleware.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Middlewares\\SessionMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:12:53.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AdminCategoriesController.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T09:06:39.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Checkout\\Index.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Checkout\\Index.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Checkout\\Index.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Checkout\\Index.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T09:30:23.37Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CacheKeys.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Enums\\CacheKeys.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Enums\\CacheKeys.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Enums\\CacheKeys.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Enums\\CacheKeys.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T07:17:07.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\ShoppingCart\\Index.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\ShoppingCart\\Index.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\ShoppingCart\\Index.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\ShoppingCart\\Index.cshtml",
-              "ViewState": "AgIAACsAAAAAAAAAAAAYwD0AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T09:32:24.545Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCustomers\\Index.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCustomers\\Index.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCustomers\\Index.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCustomers\\Index.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T07:32:03.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\Components\\HeaderCart\\Default.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Shared\\Components\\HeaderCart\\Default.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\Components\\HeaderCart\\Default.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Shared\\Components\\HeaderCart\\Default.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBYAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T09:31:23.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\Components\\NumberCart\\Default.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Shared\\Components\\NumberCart\\Default.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\Components\\NumberCart\\Default.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Shared\\Components\\NumberCart\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T09:31:30.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Blog\\Index.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Blog\\Index.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Blog\\Index.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Blog\\Index.cshtml",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-04T14:36:27.217Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Product\\Index.cshtml",
               "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAOcAAAAAAAAAAAAAAJcAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAALQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-04T14:52:25.162Z"
+              "WhenOpened": "2025-05-04T14:52:25.162Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\ShoppingCartController.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\ShoppingCartController.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\ShoppingCartController.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T09:27:27.796Z"
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Home\\About.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAE4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T14:31:45.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 9,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T14:30:54.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T14:36:27.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Checkout\\Index.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Checkout\\Index.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T09:30:23.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Details.cshtml",
               "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Blog\\Details.cshtml",
               "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Blog\\Details.cshtml",
               "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Blog\\Details.cshtml",
               "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Blog\\Details.cshtml",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAAAF4AAABiAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-06T02:17:52.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\HomeController.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T14:28:45.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CheckoutController.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\CheckoutController.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\CheckoutController.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\CheckoutController.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\CheckoutController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T09:25:38.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "K21cnt2NguyenVietTien2110900086DatnContext.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\K21cnt2NguyenVietTien2110900086DatnContext.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Models\\K21cnt2NguyenVietTien2110900086DatnContext.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\K21cnt2NguyenVietTien2110900086DatnContext.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Models\\K21cnt2NguyenVietTien2110900086DatnContext.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAkwCoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T14:45:30.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "AjaxContentController.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\AjaxContentController.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\AjaxContentController.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\AjaxContentController.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\AjaxContentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T09:16:38.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\ProductController.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwD4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T14:49:43.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "NumberCartViewComponent.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\Components\\NumberCartViewComponent.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\Components\\NumberCartViewComponent.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\Components\\NumberCartViewComponent.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\Components\\NumberCartViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T09:13:17.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "HeaderCartViewComponent.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\Components\\HeaderCartViewComponent.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\Components\\HeaderCartViewComponent.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\Components\\HeaderCartViewComponent.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\Components\\HeaderCartViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T09:13:01.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\BlogController.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\BlogController.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\BlogController.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\BlogController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T14:35:36.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Index.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Index.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Index.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T13:26:22.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Create.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Create.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Create.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T13:31:45.912Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T15:59:13.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Index.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Index.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Index.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T07:47:58.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T08:51:48.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Details.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Details.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Details.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Details.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAA0AAAAAAAAAA==",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Product\\Details.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAAAAsBAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T08:51:33.385Z"
+              "WhenOpened": "2025-05-04T15:00:03.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Delete.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Delete.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Delete.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Delete.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T08:51:16.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Create.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Create.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Create.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T08:50:44.123Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Index.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Index.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Index.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Index.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T09:09:11.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Edit.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Edit.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Edit.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T09:09:07.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Details.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Details.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Details.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T09:09:02.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Delete.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Delete.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Delete.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T09:08:58.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Create.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Create.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Create.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Create.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T09:08:48.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Utilities.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Helper\\Utilities.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Helper\\Utilities.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Helper\\Utilities.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Helper\\Utilities.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T07:16:05.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Account.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Models\\Account.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\Account.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Models\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:18:22.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCustomers\\Create.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCustomers\\Create.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCustomers\\Create.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCustomers\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T08:49:44.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "AdminBlogsController.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminBlogsController.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminBlogsController.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminBlogsController.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminBlogsController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAlwEwAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T07:03:40.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Edit.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Edit.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Edit.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Edit.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T08:49:04.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Index.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Index.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Index.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T08:49:16.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Edit.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Edit.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Edit.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Edit.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T13:30:20.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Details.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Details.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Details.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T13:30:01.613Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Delete.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Delete.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Delete.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Delete.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T13:31:39.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Details.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Details.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Details.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T08:48:53.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Delete.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Delete.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Delete.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Delete.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T08:47:55.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Create.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Create.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Create.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Create.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T08:47:29.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "AdminProductsController.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T07:39:51.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminAccounts\\Details.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminAccounts\\Details.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminAccounts\\Details.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminAccounts\\Details.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAEwDUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T07:44:59.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "Extension.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Extension\\Extension.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Extension\\Extension.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Extension\\Extension.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Extension\\Extension.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA9wAIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T07:17:19.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "SessionExtensions.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Extension\\SessionExtensions.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Extension\\SessionExtensions.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Extension\\SessionExtensions.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Extension\\SessionExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T07:17:35.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "IdentityExtensions.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Extension\\IdentityExtensions.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Extension\\IdentityExtensions.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Extension\\IdentityExtensions.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Extension\\IdentityExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T07:17:31.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "Product.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Models\\Product.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\Product.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T15:02:12.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminAccounts\\Index.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminAccounts\\Index.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminAccounts\\Index.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminAccounts\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T07:10:32.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "AdminCustomersController.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminCustomersController.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminCustomersController.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminCustomersController.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminCustomersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T07:29:51.872Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\ViewModel\\CartItem.cs",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\ViewModel\\CartItem.cs",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\ViewModel\\CartItem.cs",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\ViewModel\\CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T07:18:34.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 10,
               "Title": "CheckoutViewModel.cs",
               "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\ViewModel\\CheckoutViewModel.cs",
               "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\ViewModel\\CheckoutViewModel.cs",
@@ -1151,7 +487,739 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T15:57:26.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:49:43.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T12:58:42.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_FooterPartialView.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\_FooterPartialView.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Shared\\_FooterPartialView.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\_FooterPartialView.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Shared\\_FooterPartialView.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T01:39:03.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:32:34.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountViewModel.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\ViewModel\\AccountViewModel.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\ViewModel\\AccountViewModel.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\ViewModel\\AccountViewModel.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\ViewModel\\AccountViewModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:18:29.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_SideNavPartialView.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_SideNavPartialView.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_SideNavPartialView.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_SideNavPartialView.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Shared\\_SideNavPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T16:11:10.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Account\\Login.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T09:01:14.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Role.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Models\\Role.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\Role.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:12:19.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Account\\Register.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T09:29:27.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T09:12:16.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T15:58:06.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SessionMiddleware.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Middlewares\\SessionMiddleware.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Middlewares\\SessionMiddleware.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Middlewares\\SessionMiddleware.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Middlewares\\SessionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:12:53.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminCategoriesController.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:06:39.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CacheKeys.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Enums\\CacheKeys.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Enums\\CacheKeys.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Enums\\CacheKeys.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Enums\\CacheKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:17:07.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwD0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T09:32:24.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCustomers\\Index.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCustomers\\Index.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCustomers\\Index.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCustomers\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T07:32:03.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\Components\\HeaderCart\\Default.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Shared\\Components\\HeaderCart\\Default.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\Components\\HeaderCart\\Default.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Shared\\Components\\HeaderCart\\Default.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBYAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T09:31:23.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\Components\\NumberCart\\Default.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Shared\\Components\\NumberCart\\Default.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Shared\\Components\\NumberCart\\Default.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Shared\\Components\\NumberCart\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T09:31:30.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:27:27.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:28:45.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\CheckoutController.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\CheckoutController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:25:38.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "K21cnt2NguyenVietTien2110900086DatnContext.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\K21cnt2NguyenVietTien2110900086DatnContext.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Models\\K21cnt2NguyenVietTien2110900086DatnContext.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\K21cnt2NguyenVietTien2110900086DatnContext.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Models\\K21cnt2NguyenVietTien2110900086DatnContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:45:30.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AjaxContentController.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\AjaxContentController.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\AjaxContentController.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\AjaxContentController.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\AjaxContentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:16:38.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NumberCartViewComponent.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\Components\\NumberCartViewComponent.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\Components\\NumberCartViewComponent.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\Components\\NumberCartViewComponent.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\Components\\NumberCartViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:13:17.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HeaderCartViewComponent.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\Components\\HeaderCartViewComponent.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\Components\\HeaderCartViewComponent.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\Components\\HeaderCartViewComponent.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\Components\\HeaderCartViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:13:01.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Controllers\\BlogController.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:35:36.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Index.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Index.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Index.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T13:26:22.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Create.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Create.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Create.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T13:31:45.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T15:59:13.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Index.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Index.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Index.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T07:47:58.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T08:51:48.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Details.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Details.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Details.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Details.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T08:51:33.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Delete.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Delete.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Delete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T08:51:16.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Create.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Create.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Create.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminProducts\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T08:50:44.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Index.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Index.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Index.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Index.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T09:09:11.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Edit.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Edit.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T09:09:07.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Details.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Details.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Details.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T09:09:02.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Delete.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Delete.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T09:08:58.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Create.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Create.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Create.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCategories\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T09:08:48.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Helper\\Utilities.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Helper\\Utilities.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Helper\\Utilities.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Helper\\Utilities.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:16:05.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Account.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Models\\Account.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\Account.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:18:22.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCustomers\\Create.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCustomers\\Create.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCustomers\\Create.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminCustomers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T08:49:44.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AdminBlogsController.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminBlogsController.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminBlogsController.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminBlogsController.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminBlogsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAlwEwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:03:40.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Edit.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Edit.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T08:49:04.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Index.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Index.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Index.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T08:49:16.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Edit.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Edit.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T13:30:20.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Details.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Details.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Details.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T13:30:01.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Delete.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Delete.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminRoles\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T13:31:39.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Details.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Details.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Details.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T08:48:53.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Delete.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Delete.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Delete.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T08:47:55.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Create.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Create.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Create.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminBlogs\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T08:47:29.373Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 64,
+              "Title": "AdminProductsController.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:39:51.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminAccounts\\Details.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminAccounts\\Details.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminAccounts\\Details.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminAccounts\\Details.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAEwDUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T07:44:59.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Extension\\Extension.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Extension\\Extension.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Extension\\Extension.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Extension\\Extension.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:17:19.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Extension\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Extension\\SessionExtensions.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Extension\\SessionExtensions.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Extension\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:17:35.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IdentityExtensions.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Extension\\IdentityExtensions.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Extension\\IdentityExtensions.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Extension\\IdentityExtensions.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Extension\\IdentityExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:17:31.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Models\\Product.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Models\\Product.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:02:12.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminAccounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminAccounts\\Index.cshtml",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminAccounts\\Index.cshtml",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Views\\AdminAccounts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T07:10:32.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "AdminCustomersController.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminCustomersController.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminCustomersController.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminCustomersController.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminCustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:29:51.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\ViewModel\\CartItem.cs",
+              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\ViewModel\\CartItem.cs",
+              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\ViewModel\\CartItem.cs",
+              "RelativeToolTip": "K21CNT2-2110900086-DATN\\ViewModel\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:18:34.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
               "Title": "AdminAccountsController.cs",
               "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminAccountsController.cs",
               "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminAccountsController.cs",
@@ -1163,7 +1231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 73,
               "Title": "HashMD5.cs",
               "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Extension\\HashMD5.cs",
               "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Extension\\HashMD5.cs",
@@ -1175,31 +1243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Product\\Details.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Product\\Details.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Product\\Details.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Product\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIBAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-04T15:00:03.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Home\\About.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-04T14:31:45.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 74,
               "Title": "AdminRolesController.cs",
               "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminRolesController.cs",
               "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\AdminRolesController.cs",
@@ -1211,7 +1255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 75,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Program.cs",
               "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Program.cs",
@@ -1223,19 +1267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "K21CNT2-2110900086-DATN\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwGQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-04T14:30:54.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 76,
               "Title": "HomeController.cs",
               "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Areas\\Admin\\Controllers\\HomeController.cs",
@@ -1247,7 +1279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 77,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\_ViewImports.cshtml",
@@ -1259,7 +1291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 79,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\ScaffoldingReadMe.txt",
@@ -1271,7 +1303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 78,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\appsettings.json",
               "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\appsettings.json",
@@ -1283,7 +1315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 80,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\Views\\_ViewStart.cshtml",
@@ -1295,7 +1327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 81,
               "Title": "app.min.css",
               "DocumentMoniker": "F:\\1\\\u0111\u1ED3 \u00E1n\\K21CNT2-NguyenVietTien-2110900086-DATN\\K21CNT2-2110900086-DATN\\K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\css\\app.min.css",
               "RelativeDocumentMoniker": "K21CNT2-2110900086-DATN\\wwwroot\\AdminAssets\\css\\app.min.css",
